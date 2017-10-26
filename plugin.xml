@@ -2,7 +2,7 @@
 <plugin xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
         xsi:noNamespaceSchemaLocation="https://raw.githubusercontent.com/shopware/shopware/5.2/engine/Shopware/Components/Plugin/schema/plugin.xsd">
     <label>Show stock information in product list</label>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <description>This plugin adds badges in the product list that show whether a product is in stock or not</description>
 
     <compatibility minVersion="5.3.0"/>
